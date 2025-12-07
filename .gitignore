@@ -4,3 +4,6 @@
 *.pth   
 
 */results
+
+*/__pycache__/
+*.log
