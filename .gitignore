@@ -1,9 +1,18 @@
 */checkpoint
-
 */data
-*.pth   
-
+*.pth
 */results
-
-*/__pycache__/
+__pycache__/
+*.pyc
 *.log
+
+.idea/
+
+.ipynb_checkpoints/
+
+checkpoints/
+*.ckpt
+
+# Sistema
+.DS_Store
+Thumbs.db
